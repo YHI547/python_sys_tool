@@ -1,2 +1,4 @@
 # python_sys_tool
-project python import sys, colorama
+python sys colorama\n
+# python_m_o
+kopol
