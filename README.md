@@ -17,8 +17,6 @@ Created by YHI547
 # time_load
 time : 1/3/2026 1:01 AM
 # run
-``` bash
-python pip install numpy
-```
+
 
 
