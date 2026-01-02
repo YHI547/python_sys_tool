@@ -17,6 +17,12 @@ Created by YHI547
 # time_load
 time : 1/3/2026 1:01 AM
 # run
-
+```bash
+git clone https://github.com/YHI547/python_sys_tool.git
+```
+```bash
+cd python_sys_tool
+python python_sys_info.py
+```
 
 
