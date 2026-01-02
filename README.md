@@ -1,9 +1,9 @@
 # python_sys_tool
-This is an initial project focused on building a small tool using the sys and colorama libraries.
+This is an initial project focused on building a small tool using the sys and colorama libraries.\n
 
-This tool displays various pieces of information about your Python environment, such as:
-- Your operating system platform
-- The exact path of your Python executable
+This tool displays various pieces of information about your Python environment, such as:\n
+- Your operating system platform\n
+- The exact path of your Python executable\n
 - Active system flags
 - Your Python version
 
