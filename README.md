@@ -16,5 +16,6 @@ I hope this tool is useful for you.
 Created by YHI547
 # time_load
 time : 1/3/2026 1:01 AM
-'''bash pip install python'''
+# run
+** python pip install numpy **
 
